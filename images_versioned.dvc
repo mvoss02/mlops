@@ -1,6 +1,6 @@
 outs:
-- md5: d751713988987e9331980363e24189ce.dir
-  size: 0
-  nfiles: 0
+- md5: 62d90dd582e0ec214d05bbd5f0f4c823.dir
+  size: 105052
+  nfiles: 2
   hash: md5
   path: images_versioned
